@@ -147,5 +147,4 @@ pytest test.py
 - [Pytest 官方文件](https://docs.pytest.org/en/latest/)
 
 ---
-✍️ 由林詠傑製作，歡迎交流與改進！
 
